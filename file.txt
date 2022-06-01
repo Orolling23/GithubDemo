@@ -1,1 +1,3 @@
 new content in file.txt
+
+add new content to diff
