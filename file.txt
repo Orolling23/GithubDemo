@@ -1,3 +1,1 @@
-new content in file.txt
-
-add new content to diff
+no have content in file.txt
