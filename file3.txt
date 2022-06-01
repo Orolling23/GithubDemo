@@ -1,2 +1,7 @@
 new content in file3.txt
 ...
+
+now, we are in dev branch.
+let's modify some content.
+dev content.
+
