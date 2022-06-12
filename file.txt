@@ -4,3 +4,8 @@ no have content in file.txt
 	//solve conflict
 	  changed by master branch
 	  add content by dev branch
+
+2022/6/12 add content by dev2
+
+more content in file.txt
+
