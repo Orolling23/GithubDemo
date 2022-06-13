@@ -9,3 +9,6 @@ no have content in file.txt
 
 more content in file.txt
 
+add new content to diff
+
+2022/06/13 change by dev2 in v0.5
